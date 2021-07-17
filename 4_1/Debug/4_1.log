@@ -1,0 +1,6 @@
+﻿  Assembling 4_1.asm...
+4_1.asm(54): error A2114: INVOKE argument type mismatch : argument : 1
+4_1.asm(55): error A2031: must be index or base register
+4_1.asm(55): error A2114: INVOKE argument type mismatch : argument : 1
+4_1.asm(54): error A2107: cannot have implicit far jump or call to near label
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Debug\4_1.obj" /W3 /errorReport:prompt  /Ta4_1.asm”已退出，返回代码为 1。
