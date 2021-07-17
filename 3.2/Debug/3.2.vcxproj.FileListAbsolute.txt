@@ -1,0 +1,2 @@
+D:\HuiBian\3.2\Debug\3.2.exe
+D:\HuiBian\3.2\Debug\3.2.pdb

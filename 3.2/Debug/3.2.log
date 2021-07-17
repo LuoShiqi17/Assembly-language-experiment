@@ -1,0 +1,16 @@
+﻿  Assembling 3.2.asm...
+  main.c
+D:\HuiBian\3.2\main.c(93,27): warning C4047: “函数”:“GOODS *”与“GOODS (*)[30]”的间接级别不同
+D:\HuiBian\3.2\main.c(93,23): warning C4024: “displaygoods”: 形参和实参 2 的类型不同
+D:\HuiBian\3.2\main.c(100,27): warning C4047: “函数”:“GOODS *”与“GOODS (*)[30]”的间接级别不同
+D:\HuiBian\3.2\main.c(100,23): warning C4024: “displaygoods”: 形参和实参 2 的类型不同
+D:\HuiBian\3.2\main.c(108,27): warning C4047: “函数”:“GOODS *”与“GOODS (*)[30]”的间接级别不同
+D:\HuiBian\3.2\main.c(108,23): warning C4024: “displaygoods”: 形参和实参 2 的类型不同
+D:\HuiBian\3.2\main.c(136,25): warning C4047: “=”:“GOODS *”与“unsigned int”的间接级别不同
+D:\HuiBian\3.2\main.c(141,14): warning C4047: “=”:“GOODS *”与“unsigned int”的间接级别不同
+D:\HuiBian\3.2\main.c(146,25): warning C4047: “=”:“GOODS *”与“unsigned int”的间接级别不同
+D:\HuiBian\3.2\main.c(132,1): warning C4047: “初始化”:“GOODS *”与“unsigned int”的间接级别不同
+D:\HuiBian\3.2\main.c(161,1): warning C4276: “calculaterate”: 不提供原型；假定无参数
+LINK : warning LNK4098: 默认库“ucrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  3.2.vcxproj -> D:\HuiBian\3.2\Debug\3.2.exe
