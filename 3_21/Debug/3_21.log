@@ -1,0 +1,14 @@
+﻿  Assembling 3.12.asm...
+  Assembling 3_21.asm...
+  3_21_1.c
+LINK : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+3_21.obj : error LNK2019: 无法解析的外部符号 _user_load_in@0，函数 _main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      _user_load_in
+3_21.obj : error LNK2019: 无法解析的外部符号 _menucard@0，函数 _main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      _menucard
+3_21.obj : error LNK2019: 无法解析的外部符号 _add_new_good@0，函数 _main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      _add_new_good
+D:\HuiBian\3_21\Debug\3_21.exe : fatal error LNK1120: 3 个无法解析的外部命令
