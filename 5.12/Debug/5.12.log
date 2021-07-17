@@ -1,0 +1,6 @@
+﻿  Assembling 5.12.asm...
+5.12.asm(128): warning A6004: procedure argument or local not referenced : hPrevInst
+5.12.asm(128): warning A6004: procedure argument or local not referenced : CmdLine
+5.12.asm(128): warning A6004: procedure argument or local not referenced : CmdShow
+5.12.asm(153): warning A6004: procedure argument or local not referenced : hdc
+  5.12.vcxproj -> D:\HuiBian\5.12\Debug\5.12.exe
