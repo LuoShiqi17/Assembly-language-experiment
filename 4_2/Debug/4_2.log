@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5363,5): warning MSB3061: 无法删除文件“D:\HuiBian\4_2\Debug\4_2.pdb”。对路径“D:\HuiBian\4_2\Debug\4_2.pdb”的访问被拒绝。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : 对路径“d:\huibian\4_2\debug\4_2.pdb”的访问被拒绝。
+  Assembling 4_2.asm...
+LINK : fatal error LNK1201: 写入程序数据库“D:\HuiBian\4_2\Debug\4_2.pdb”时出错；请检查是否是磁盘空间不足、路径无效或权限不够
